@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ekwuenechi" target="blank"><img src="https://img.shields.io/twitter/follow/ekwuenechi?logo=twitter&style=for-the-badge" alt="ekwuenechi" /></a> </p>
 
-- 🔭 I’m currently working on [FuninationTv](FuninationTv.com)
+- 🔭 I’m currently working on [FuninationTv](https://www.funinationtv.com)
 
 - 🌱 I’m currently learning **Frontend Development**
 
